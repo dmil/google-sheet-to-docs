@@ -1,2 +1,9 @@
-# google-sheet-to-docs
-A script that will read from a restricted google spreadsheet. The script should then take each row of data and turn it into it's own new google doc. Created with the help of ChatGPT.
+# google-form-to-markdown
+
+Turns a Google form into a bunch of markdown files. Made with the help of ChatGPT.
+
+## Usage
+
+```bash
+python3 form.py
+```
